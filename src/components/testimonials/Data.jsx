@@ -5,20 +5,20 @@ import Image3 from "../../assets/woman2.png";
 export const Data = [
     {
         id: 1,
-        image: Image1,
-        title: "Kris C.",
-        description: "Executed the concept with clarity and adaptability.",
+        image: Image2,
+        title: "Oussama",
+        description: "I liked this profile, but Anas doesn't want to give it to me.",
     },
     {
         id: 2,
-        image: Image2,
-        title: "Mark S.",
-        description: "Provided creative insight and improvment to the project.",
+        image: Image1,
+        title: "Imane",
+        description: "A portfolio that is simple, lovely, and clear.",
     },
     {
         id: 3,
-        image: Image3,
-        title: "Gemma B.",
-        description: "Fixed the glitch and made the site easier to use.",
+        image: Image2,
+        title: "Adnane",
+        description: "This is called a portfolio good profile.",
     },
 ];
