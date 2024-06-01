@@ -7,7 +7,7 @@ const ProjectItems = ({item}) => {
             <img className="project__img" src={item.image} alt="" />
             <h3 className="project__title">{item.title}</h3>
             <a href="#" className="project__button">
-                Demo <HiOutlineArrowSmRight className="project__button-icon" />
+                view <HiOutlineArrowSmRight className="project__button-icon" />
             </a>
         </div>
     );
